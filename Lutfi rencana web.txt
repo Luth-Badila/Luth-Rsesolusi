@@ -4,6 +4,8 @@ Rencana web PSM SUN
 * All about PSM SUN Activity
   -Picture
   -Video
+  -By Phone
+  -By camera
 -How to introduce PSM SUN to the student
 -How to join us
 -Responsive page
